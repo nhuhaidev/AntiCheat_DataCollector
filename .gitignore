@@ -1,0 +1,26 @@
+# 1. Bỏ qua thư mục build của Java (RẤT QUAN TRỌNG)
+AntiCheat_DataCollector/target/
+*.class
+
+# 2. Bỏ qua các file cấu hình IDE local
+.vscode/
+.idea/
+
+# 3. Bỏ qua các file thực thi và dữ liệu nặng của Server Minecraft
+PaperServer/logs/
+PaperServer/world*/
+PaperServer/crash-reports/
+PaperServer/cache/
+PaperServer/libraries/
+PaperServer/versions/
+*.jar
+
+# 4. Bỏ qua môi trường và file tạm của Python
+DataPipeline_Python/__pycache__/
+DataPipeline_Python/venv/
+DataPipeline_Python/.env
+*.pyc
+
+# 5. Bỏ qua dữ liệu thô (nếu có)
+*.json
+*.csv
