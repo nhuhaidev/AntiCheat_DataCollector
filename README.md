@@ -1,5 +1,5 @@
 # 🛡️ Anti-Cheat ML Pipeline: Behavioral Analytics in Game Server
-![Minecraft Server](https://img.shields.io/badge/Minecraft_Server-1.20-green?style=flat-square&logo=minecraft)
+![Minecraft Server](https://img.shields.io/badge/Minecraft_Server-1.20.4-green?style=flat-square&logo=minecraft)
 ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2022-red?style=flat-square&logo=microsoft-sql-server)
